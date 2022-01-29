@@ -1,0 +1,129 @@
+{
+    "user":[
+        {
+            "id": 1,
+            "title": "家用全自动农用联合小型稻谷农机 ·",
+            "houseType": " 250毫米宽履带 | 25公分泥脚深度",
+            "price": "<h3>2298.00</h3>",
+            "rentType": "整租",
+            "img": "https://img11.360buyimg.com/imgzone/jfs/t1/197612/37/7637/199271/6139ba50E3c675ae3/884de0a099f9b40c.jpg"
+        },
+        {
+            "id": 2,
+            "title": "小麦大型山地水稻收割机 1.0经典款",
+            "houseType": "4LZ-1.0| 小体型 动力强 ",
+            "price": "<h3>42300.00</h3>",
+            "rentType": "整租",
+            "img": "https://img11.360buyimg.com/imgzone/jfs/t1/200872/12/1301/111924/61138ccfE7bc78057/c98112f66a11c7ca.jpg"
+        },
+        {
+            "id": 3,
+            "title": "分体式气缸设计· 3850W",
+            "houseType": "功率2000W 排量 55.7CC",
+            "price": "<h3>35000.00</h3>",
+            "rentType": "整租",
+            "img": "https://img10.360buyimg.com/imgzone/jfs/t1/158401/16/16460/424778/6068287fE030975f0/54613cae821e0a99.jpg"
+        },
+        {
+            "id": 4,
+            "title": "收割机,四川收割机",
+            "houseType": "发动机排量38.7CC-净重119kg",
+            "price": "<h3>28546.79</h3>",
+            "rentType": "整租",
+            "img": "https://img30.360buyimg.com/imgzone/jfs/t1/45698/15/16960/195752/61360823E5886c160/2ce6d235641870d1.jpg"
+        },
+        {
+            "id": 5,
+            "title": "农用除草工具进口锰钢镰刀",
+            "houseType": "商品毛重：160.00g| 50号钢",
+            "price": "<h3>25.00</h3>",
+            "rentType": "出售",
+            "img": "https://img14.360buyimg.com/n0/jfs/t1/185511/23/9086/238299/60c6ba61E6cd465f8/bafd70914f3b18ec.jpg"
+        },
+        {
+            "id": 6,
+            "title": "家用全自动农用联合小型稻谷农机 ·",
+            "houseType": " 250毫米宽履带 | 25公分泥脚深度",
+            "price": "<h3>28298.00</h3>",
+            "rentType": "整租",
+            "img": "https://img11.360buyimg.com/imgzone/jfs/t1/197612/37/7637/199271/6139ba50E3c675ae3/884de0a099f9b40c.jpg"
+        }
+    ],
+    "detail":
+        {
+            "imgs": [
+                "https://img11.360buyimg.com/imgzone/jfs/t1/197612/37/7637/199271/6139ba50E3c675ae3/884de0a099f9b40c.jpg",
+                "https://img30.360buyimg.com/imgzone/jfs/t1/45698/15/16960/195752/61360823E5886c160/2ce6d235641870d1.jpg",
+                "https://img14.360buyimg.com/n0/jfs/t1/185511/23/9086/238299/60c6ba61E6cd465f8/bafd70914f3b18ec.jpg",
+                "https://img30.360buyimg.com/imgzone/jfs/t1/45698/15/16960/195752/61360823E5886c160/2ce6d235641870d1.jpg",
+                "https://img10.360buyimg.com/imgzone/jfs/t1/158401/16/16460/424778/6068287fE030975f0/54613cae821e0a99.jpg",
+                "https://img11.360buyimg.com/imgzone/jfs/t1/197612/37/7637/199271/6139ba50E3c675ae3/884de0a099f9b40c.jpg",
+                "https://img11.360buyimg.com/imgzone/jfs/t1/197612/37/7637/199271/6139ba50E3c675ae3/884de0a099f9b40c.jpg"
+            ],
+            "title": "家用全自动农用联合小型稻谷农机",
+            "price": "2298",
+            "rentType": "整租",
+            "houseType": "250毫米 /宽",
+            "info": {
+                "years": "2020年",
+                "type": " 25公分",
+                "level": "17/19层",
+                "style": "简洁性",
+                "orientation": "5个月"
+            }
+        
+        },
+    "view": [
+        {
+            "username": "133****3355",
+            "comment": "收割机不错，价钱好，服务也好",
+            "star": 5
+        },
+        {
+            "username": "137****3235",
+            "comment": "价钱稍微有点高，但是使用方面还是比较简单易学根据讲解视频",
+            "star": 3
+        },
+        {
+            "username": "185****2425",
+            "comment": "很不错，动力大而且轻便，很实用",
+            "star": 4
+        },
+        {
+            "username": "157****5549",
+            "comment": "我第一次租这个机器，价钱上还算合理。总体还是满意的。",
+            "star": 5
+        },
+        {
+            "username": "139****9999",
+            "comment": "太有钱了，任性，不做评价",
+            "star": 5
+        },
+        {
+            "username": "133****3355",
+            "comment": "收割机不错，价钱好，服务也好",
+            "star": 5
+        },
+        {
+            "username": "137****3235",
+            "comment": "价钱稍微有点高，但是使用方面还是比较简单易学根据讲解视频",
+            "star": 3
+        },
+        {
+            "username": "185****2425",
+            "comment": "很不错，动力大而且轻便，很实用",
+            "star": 4
+        },
+        {
+            "username": "157****5549",
+            "comment": "我第一次租这个机器，价钱上还算合理。总体还是满意的。",
+            "star": 5
+        },
+        {
+            "username": "139****9999",
+            "comment": "太有钱了，任性，不做评价",
+            "star": 5
+        }
+    ]
+       
+}
